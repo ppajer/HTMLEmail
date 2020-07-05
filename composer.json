@@ -19,6 +19,6 @@
 	],
   "require": {
       "phpmailer/phpmailer": "~6.1",
-      "ppajer/datatemplate": "*"
+      "ppajer/php-datatemplate": "*"
    }
 }
